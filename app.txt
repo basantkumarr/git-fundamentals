@@ -1,4 +1,11 @@
+
+
  1  hii  
 
+<<<<<<< HEAD
 2   hii
+=======
+2 hiiiii
+3 hi
+>>>>>>> b3dcaaf (rebase)
 
